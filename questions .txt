@@ -1,0 +1,20 @@
+What is the capital of India?
+Delhi
+Mumbai
+Kolkata
+Chennai
+Delhi
+
+Which language is used for Android development?
+Java
+Python
+C++
+Ruby
+Java
+
+Which company developed Java?
+Oracle
+Microsoft
+Google
+IBM
+Oracle
